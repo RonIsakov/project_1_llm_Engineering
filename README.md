@@ -150,7 +150,3 @@ This writes all three output files to the current directory:
    applied consistently across all four categories. All percentages are formatted to two
    decimal places, and a zero denominator is reported as `0.00`.
 
-## Authors
-
-- Ron Isakov (212195432)
-- Shachar Ben Zur (212373005)

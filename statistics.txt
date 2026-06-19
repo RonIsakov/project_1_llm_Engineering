@@ -1,0 +1,115 @@
+1:
+number correct: 0
+majority voting: incorrect
+2:
+number correct: 3
+majority voting: correct
+3:
+number correct: 3
+majority voting: correct
+4:
+number correct: 3
+majority voting: correct
+5:
+number correct: 3
+majority voting: correct
+6:
+number correct: 3
+majority voting: correct
+7:
+number correct: 3
+majority voting: correct
+8:
+number correct: 3
+majority voting: correct
+9:
+number correct: 3
+majority voting: correct
+10:
+number correct: 3
+majority voting: correct
+11:
+number correct: 3
+majority voting: correct
+12:
+number correct: 3
+majority voting: correct
+13:
+number correct: 3
+majority voting: correct
+14:
+number correct: 3
+majority voting: correct
+15:
+number correct: 3
+majority voting: correct
+16:
+number correct: 3
+majority voting: correct
+17:
+number correct: 3
+majority voting: correct
+18:
+number correct: 3
+majority voting: correct
+19:
+number correct: 3
+majority voting: correct
+20:
+number correct: 3
+majority voting: correct
+21:
+number correct: 3
+majority voting: correct
+22:
+number correct: 3
+majority voting: correct
+23:
+number correct: 3
+majority voting: correct
+24:
+number correct: 3
+majority voting: correct
+25:
+number correct: 3
+majority voting: correct
+26:
+number correct: 3
+majority voting: correct
+27:
+number correct: 3
+majority voting: correct
+28:
+number correct: 3
+majority voting: correct
+29:
+number correct: 3
+majority voting: correct
+30:
+number correct: 3
+majority voting: correct
+summary
+percent correct temperature = 0: 96.67
+percent correct temperature = 0.5: 96.67
+percent correct temperature = 0.9: 96.67
+percent correct total: 96.67
+percent correct majority voting: 96.67
+prompt comparison
+percent correct zero-shot majority voting: 96.67
+percent correct few-shot majority voting: 93.33
+percent correct chain-of-thought majority voting: 93.33
+best prompt: zero-shot
+best configuration: 0
+precision world: 100.00
+recall world: 87.50
+f1 world: 93.33
+precision sports: 100.00
+recall sports: 100.00
+f1 sports: 100.00
+precision business: 100.00
+recall business: 100.00
+f1 business: 100.00
+precision sci/tech: 100.00
+recall sci/tech: 100.00
+f1 sci/tech: 100.00
+average f1: 98.33

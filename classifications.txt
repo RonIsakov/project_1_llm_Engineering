@@ -1,0 +1,210 @@
+1:
+0: unknown
+LLM response: [blocked by Azure content filter]
+0.5: unknown
+LLM response: [blocked by Azure content filter]
+0.9: unknown
+LLM response: [blocked by Azure content filter]
+2:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+3:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+4:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+5:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+6:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+7:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+8:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+9:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+10:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+11:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+12:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+13:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+14:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+15:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+16:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+17:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+18:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+19:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+20:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+21:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+22:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+23:
+0: business
+LLM response: business
+0.5: business
+LLM response: business
+0.9: business
+LLM response: business
+24:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+25:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+26:
+0: sports
+LLM response: sports
+0.5: sports
+LLM response: sports
+0.9: sports
+LLM response: sports
+27:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+28:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world
+29:
+0: sci/tech
+LLM response: sci/tech
+0.5: sci/tech
+LLM response: sci/tech
+0.9: sci/tech
+LLM response: sci/tech
+30:
+0: world
+LLM response: world
+0.5: world
+LLM response: world
+0.9: world
+LLM response: world

@@ -1,0 +1,633 @@
+zero-shot:
+1:
+call 1: unknown
+call 2: unknown
+call 3: unknown
+call 4: unknown
+call 5: unknown
+majority vote: no majority
+2:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+3:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+4:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+5:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+6:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+7:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+8:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+9:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+10:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+11:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+12:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+13:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+14:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+15:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+16:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+17:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+18:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+19:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+20:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+21:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+22:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+23:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+24:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+25:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+26:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+27:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+28:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+29:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+30:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+few-shot:
+1:
+call 1: unknown
+call 2: unknown
+call 3: unknown
+call 4: unknown
+call 5: unknown
+majority vote: no majority
+2:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+3:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+4:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+5:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+6:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+7:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+8:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+9:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+10:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+11:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+12:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+13:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+14:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+15:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+16:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+17:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+18:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+19:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+20:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+21:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+22:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+23:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+24:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+25:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+26:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+27:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+28:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+29:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+30:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+chain-of-thought:
+1:
+call 1: unknown
+call 2: unknown
+call 3: unknown
+call 4: unknown
+call 5: unknown
+majority vote: no majority
+2:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+3:
+call 1: world
+call 2: world
+call 3: world
+call 4: business
+call 5: world
+majority vote: world
+4:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+5:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+6:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+7:
+call 1: sci/tech
+call 2: business
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+8:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+9:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+10:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+11:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+12:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+13:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+14:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+15:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+16:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+17:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+18:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+19:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+20:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+21:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+22:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+23:
+call 1: business
+call 2: business
+call 3: business
+call 4: business
+call 5: business
+majority vote: business
+24:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+25:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+26:
+call 1: sports
+call 2: sports
+call 3: sports
+call 4: sports
+call 5: sports
+majority vote: sports
+27:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+28:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
+29:
+call 1: sci/tech
+call 2: sci/tech
+call 3: sci/tech
+call 4: sci/tech
+call 5: sci/tech
+majority vote: sci/tech
+30:
+call 1: world
+call 2: world
+call 3: world
+call 4: world
+call 5: world
+majority vote: world
